@@ -12,8 +12,8 @@ Der bruges BEM-navngivning
 - 1 css fil: style.css
 - 1 javascript fil: buttons.js
 
-**index.html:** indeholder alt indholdet på siden.
-**style.css:** styler indholdet der ligger i index.html
+**index.html:** indeholder alt indholdet på siden.  
+**style.css:** styler indholdet der ligger i index.html  
 **buttons.js:** tilføjer clickevent ved en addEventListener der skifter baggrundsfarven når man trykker på den.
 
 
