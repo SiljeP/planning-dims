@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:monospace;
+}
+
+h1 {
+    margin: auto;
+    padding-top: 2em;
+    text-align: center;
+
+}
+
+.button__container {
+    width: 100%;
+    height: 600px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.button__container--green,
+.button__container--pink,
+.button__container--yellow {
+    margin: 2em;
+    border-radius: 30%;
+    padding: 1em;
+
+    border-style: none;
+    font-weight: 900;
+    background-color: rgba(0, 0, 0, 0.613);
+    color: antiquewhite;
+    
+  
+
+}
