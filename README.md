@@ -26,4 +26,5 @@ Der bruges BEM-navngivning
 - Opret elementer i index.html
 - Tilføj click event der skifter farven i en closurefunktion i buttons.js
 - Style på tingene i style.css (anbring det i midten og giv det padding)
-- Push det hele til github når det er færdigt.
+- Push det hele til github når det er færdigt. 
+- Tidsestimat: 30 min.
